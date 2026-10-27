@@ -1,0 +1,15 @@
+App(
+    appid="pimpkin_remote",
+    name="Pimpkin Remote",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="pimpkin_remote_app",
+    requires=["gui", "bt", "storage"],
+    stack_size=4 * 1024,
+    fap_category="Sub-GHz",
+    fap_icon="icons/pumpkin_10px.png",
+    fap_icon_assets="icons",
+    fap_libs=["ble_profile"],
+    fap_description="Halloween show remote: BLE keyboard cues and 315 MHz smoke start/stop",
+    fap_author="Joren Six",
+    fap_version="1.0",
+)

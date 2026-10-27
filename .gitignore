@@ -1,0 +1,6 @@
+dist/
+.vscode/
+*.fap
+__pycache__/
+.clang-format
+.DS_Store
