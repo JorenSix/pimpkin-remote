@@ -46,7 +46,7 @@ is held, **magenta/purple** while smoking, and off otherwise.
 ## Pairing
 
 1. On the Flipper: **Settings → Bluetooth > ON**.
-2. Open **Apps → Sub-GHz -> Pimpkin Remote**.
+2. Open **Apps → Sub-GHz → Pimpkin Remote**.
 3. On the computer/phone, pair with **Pimpkin [your Flipper name]**.
 4. Press the Flipper's **OK** button if the host asks to confirm.
 5. The header dot fills in when the BLE HID connection is up.
